@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Bank", "DIO.Bank\DIO.Bank.csproj", "{49368E92-41B3-4662-9F57-19BECB60819A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Bank.Test", "DIO.Bank.Test\DIO.Bank.Test.csproj", "{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{49368E92-41B3-4662-9F57-19BECB60819A}.Release|x64.Build.0 = Release|Any CPU
 		{49368E92-41B3-4662-9F57-19BECB60819A}.Release|x86.ActiveCfg = Release|Any CPU
 		{49368E92-41B3-4662-9F57-19BECB60819A}.Release|x86.Build.0 = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|x64.Build.0 = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Debug|x86.Build.0 = Debug|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|x64.Build.0 = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{69FE370A-2740-4AA4-8A7C-0A5E40E775C3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
