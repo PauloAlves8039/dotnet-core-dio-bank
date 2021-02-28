@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using src.DIO.Bank.Classes;
 using src.DIO.Bank.Enum;
 
 namespace DIO.Bank
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         static List<Conta> listContas = new List<Conta>();

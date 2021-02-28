@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics.CodeAnalysis;
 using src.DIO.Bank.Enum;
 
 namespace src.DIO.Bank.Classes
@@ -47,6 +48,7 @@ namespace src.DIO.Bank.Classes
             }
         }
 
+        [ExcludeFromCodeCoverage]
         public override string ToString()
         {
             string retorno = "";
