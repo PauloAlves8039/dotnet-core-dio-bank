@@ -7,6 +7,8 @@ Aplicação console desenvolvida para fins acadêmicos com o objetivo de simular
 - [Visual Studio Code v1.53.2](https://code.visualstudio.com/).
 - [.NET Core v5.0.103](https://dotnet.microsoft.com/download/dotnet/5.0).
 - [C#](https://code.visualstudio.com/).
+- [XUnit v3.0.3](https://xunit.net/).
+- [Coverlet v3.0.3](https://github.com/coverlet-coverage/coverlet).
 
 ## :floppy_disk: Clonar repositório
 
